@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <metadata>
+    <id>Devart.SqlServer.Mfa</id>
+    <version>$version$</version>
+    <title>Devart.SqlServer.Mfa</title>
+    <authors>Devart</authors>
+    <owners>Devart</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Devart.SqlServer.Mfa</description>
+    <copyright>© Devart. All rights reserved.</copyright>
+    <dependencies>
+      <group targetFramework=".NETFramework4.0">
+          <dependency id="Microsoft.IdentityModel.Clients.ActiveDirectory" version="5.2.8" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="Bin\Release\Devart.SqlServer.Mfa.dll" target="lib\net40" />
+  </files>
+</package>

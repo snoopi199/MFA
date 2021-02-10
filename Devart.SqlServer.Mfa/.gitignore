@@ -1,0 +1,20 @@
+# Output directories
+bin/
+obj/
+packages/
+Debug/
+Release/
+
+# output and visual studio files
+.vs
+**/*.log
+**/*sdf
+**/*.suo
+**/*.ncb
+**/*.user
+**/*.tokens
+**/*.pdb
+**/_ReSharper\***
+/sh.exe.stackdump
+
+*.nupkg

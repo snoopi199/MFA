@@ -1,0 +1,16 @@
+C:\Users\SergeyH\source\repos\Test\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\SergeyH\source\repos\Test\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\SergeyH\source\repos\Test\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\SergeyH\source\repos\Test\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\SergeyH\source\repos\Test\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\SergeyH\source\repos\Test\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\SergeyH\source\repos\Test\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\SergeyH\source\repos\Test\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\SergeyH\source\repos\Test\WindowsFormsApp2\bin\Debug\Devart.DbForge.Data.Interfaces.dll
+C:\Users\SergeyH\source\repos\Test\WindowsFormsApp2\bin\Debug\Devart.DbForge.Data.SqlServer.dll
+C:\Users\SergeyH\source\repos\Test\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\SergeyH\source\repos\Test\WindowsFormsApp2\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\SergeyH\source\repos\Test\WindowsFormsApp2\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.pdb
+C:\Users\SergeyH\source\repos\Test\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\SergeyH\source\repos\Test\WindowsFormsApp2\bin\Debug\Devart.SqlServer.Mfa.dll
+C:\Users\SergeyH\source\repos\Test\WindowsFormsApp2\bin\Debug\Devart.SqlServer.Mfa.pdb

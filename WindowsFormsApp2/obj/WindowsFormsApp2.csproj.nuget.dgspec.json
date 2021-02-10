@@ -1,0 +1,128 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\SergeyH\\source\\repos\\Test\\WindowsFormsApp2\\WindowsFormsApp2.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\SergeyH\\source\\repos\\Test\\Devart.SqlServer.Mfa\\Devart.SqlServer.Mfa\\Devart.SqlServer.Mfa.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\SergeyH\\source\\repos\\Test\\Devart.SqlServer.Mfa\\Devart.SqlServer.Mfa\\Devart.SqlServer.Mfa.csproj",
+        "projectName": "Devart.SqlServer.Mfa",
+        "projectPath": "C:\\Users\\SergeyH\\source\\repos\\Test\\Devart.SqlServer.Mfa\\Devart.SqlServer.Mfa\\Devart.SqlServer.Mfa.csproj",
+        "packagesPath": "C:\\Users\\SergeyH\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SergeyH\\source\\repos\\Test\\Devart.SqlServer.Mfa\\Devart.SqlServer.Mfa\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\DevExpress 20.2\\.NET Core Desktop Libraries\\Offline Packages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\SergeyH\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress .NET Core Desktop 20.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 20.2\\.NET Core Desktop Libraries\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "\\\\dbforge\\Nuget": {},
+          "http://dbfnexus.datasoft.local/repository/dbForgeNuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Devart.snk": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Microsoft.IdentityModel.Clients.ActiveDirectory": {
+              "target": "Package",
+              "version": "[5.2.8, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\SergeyH\\source\\repos\\Test\\WindowsFormsApp2\\WindowsFormsApp2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\SergeyH\\source\\repos\\Test\\WindowsFormsApp2\\WindowsFormsApp2.csproj",
+        "projectName": "WindowsFormsApp2",
+        "projectPath": "C:\\Users\\SergeyH\\source\\repos\\Test\\WindowsFormsApp2\\WindowsFormsApp2.csproj",
+        "packagesPath": "C:\\Users\\SergeyH\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SergeyH\\source\\repos\\Test\\WindowsFormsApp2\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\DevExpress 20.2\\.NET Core Desktop Libraries\\Offline Packages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\SergeyH\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress .NET Core Desktop 20.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 20.2\\.NET Core Desktop Libraries\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "\\\\dbforge\\Nuget": {},
+          "http://dbfnexus.datasoft.local/repository/dbForgeNuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\SergeyH\\source\\repos\\Test\\Devart.SqlServer.Mfa\\Devart.SqlServer.Mfa\\Devart.SqlServer.Mfa.csproj": {
+                "projectPath": "C:\\Users\\SergeyH\\source\\repos\\Test\\Devart.SqlServer.Mfa\\Devart.SqlServer.Mfa\\Devart.SqlServer.Mfa.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Microsoft.IdentityModel.Clients.ActiveDirectory": {
+              "target": "Package",
+              "version": "[5.2.8, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

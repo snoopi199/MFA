@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ivg/CbVfs61OOV2DVLWwRCeabOnU1tslQXGPTuweDzMTTmxRqpxYO6Qh3F7VnkjCdEmfI/Q33pgiULW2ZrdegA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SergeyH\\source\\repos\\Test\\WindowsFormsApp2\\WindowsFormsApp2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SergeyH\\.nuget\\packages\\devart.snk\\1.0.0\\devart.snk.1.0.0.nupkg.sha512",
+    "C:\\Users\\SergeyH\\.nuget\\packages\\microsoft.identitymodel.clients.activedirectory\\5.2.8\\microsoft.identitymodel.clients.activedirectory.5.2.8.nupkg.sha512",
+    "C:\\Users\\SergeyH\\.nuget\\packages\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",
+    "C:\\Users\\SergeyH\\.nuget\\packages\\system.net.http\\4.3.4\\system.net.http.4.3.4.nupkg.sha512",
+    "C:\\Users\\SergeyH\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\SergeyH\\.nuget\\packages\\system.security.cryptography.algorithms\\4.3.0\\system.security.cryptography.algorithms.4.3.0.nupkg.sha512",
+    "C:\\Users\\SergeyH\\.nuget\\packages\\system.security.cryptography.encoding\\4.3.0\\system.security.cryptography.encoding.4.3.0.nupkg.sha512",
+    "C:\\Users\\SergeyH\\.nuget\\packages\\system.security.cryptography.primitives\\4.3.0\\system.security.cryptography.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\SergeyH\\.nuget\\packages\\system.security.cryptography.x509certificates\\4.3.0\\system.security.cryptography.x509certificates.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
